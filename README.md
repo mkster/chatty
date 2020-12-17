@@ -10,3 +10,4 @@ Live at: https://chatty-22c29.web.app/chats
 * React Router
 * Bootstrap
 * Styled-components
+* Yarn
